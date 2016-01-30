@@ -9,4 +9,4 @@ You can read on how to do that [here] (http://www.programmersranch.com/2014/02/s
 
 Or you can run the .exe file from the Release folder.
 
-You can also watch the demo of the game from [here] (https://github.com/nidafarooqui/Frog-Chase/blob/master/Frog%20Chase/Adventure-Time.mp3)
+You can also watch the demo of the game from [here] (https://github.com/nidafarooqui/Frog-Chase/blob/41bfc4128076d993e12c174c81570716fe120837/ScreenCapture_01-04-2014%2004.59.50%20PM.mov)
