@@ -1,6 +1,6 @@
 Frog-Chase
 ==========
-#Frog Chase
+
 Frog Chase is a 2D game developed by me for kids.
 
 ##About The Game
