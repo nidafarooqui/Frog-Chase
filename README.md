@@ -5,6 +5,8 @@ A 2D maze game demo about a frog being chased by a pelican. The aim of this game
 
 This game uses the SDL2 library and was built using Visual Studio 2013.You will need to include the SDL2 include files, library files and the dll files to be able to execute the game in Visual Studio.
 
-You can read on how to do that here http://www.programmersranch.com/2014/02/sdl2-setting-up-sdl2-in-visual-studio.html
+You can read on how to do that [here] (http://www.programmersranch.com/2014/02/sdl2-setting-up-sdl2-in-visual-studio.html)
 
 Or you can run the .exe file from the Release folder.
+
+You can also watch the demo of the game from [here] (https://github.com/nidafarooqui/Frog-Chase/blob/master/Frog%20Chase/Adventure-Time.mp3)
